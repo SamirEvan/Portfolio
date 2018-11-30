@@ -1,0 +1,7 @@
+baseURL = "https:sarabieventide-portfolio.netlify.com"
+
+languageCode = "en-us"
+
+title = "Sarabi Eventide's Portfolio"
+
+theme = "tranquilpeak"
